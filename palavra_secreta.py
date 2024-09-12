@@ -1,0 +1,1 @@
+palavra = ['python', 'gato', 'cachorro', 'paralelepipedo', 'forca']
